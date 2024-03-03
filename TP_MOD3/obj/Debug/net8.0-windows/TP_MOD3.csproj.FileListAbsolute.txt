@@ -1,0 +1,17 @@
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.Form1.resources
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.Properties.Resources.resources
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.csproj.GenerateResource.cache
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.AssemblyInfoInputs.cache
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.AssemblyInfo.cs
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.csproj.CoreCompileInputs.cache
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\bin\Debug\net8.0-windows\TP_MOD3.exe
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\bin\Debug\net8.0-windows\TP_MOD3.deps.json
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\bin\Debug\net8.0-windows\TP_MOD3.runtimeconfig.json
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\bin\Debug\net8.0-windows\TP_MOD3.dll
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\bin\Debug\net8.0-windows\TP_MOD3.pdb
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.dll
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\refint\TP_MOD3.dll
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.pdb
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\TP_MOD3.genruntimeconfig.cache
+C:\Users\mirfa\source\repos\TP_MOD3\TP_MOD3\obj\Debug\net8.0-windows\ref\TP_MOD3.dll
